@@ -1,4 +1,4 @@
-# plugins/extensiones en Visual Studio Code
+# Plugins/extensiones en Visual Studio Code
 
 ## 1. **Live server**<br>
 Una joyita. Detecta los cambios que hacemos y guardamos en visual studio code y hace que el navegador se actualice solo. Quizás a la primera no parezca tan necesario, pero ahorra mucho tiempo y clics!
